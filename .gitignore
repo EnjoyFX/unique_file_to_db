@@ -1,0 +1,12 @@
+venv/
+.idea/
+
+# databases
+*.db
+*.db.bak
+
+# pictures
+*.jpg
+*.jpeg
+*.png
+*.gif
